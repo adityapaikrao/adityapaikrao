@@ -2,7 +2,7 @@
 
 **`Aspiring Engineer, driving change one line of code at a time`**
 
-Currenlty a graduate student at University at Buffalo, leveling up my skills at the intersection of Machine Learning, Data Science and Software Engineering.
+I am currently a graduate student at University at Buffalo, leveling up my skills at the intersection of Machine Learning, Data Science and Software Engineering.
 
 ## My Tech Stack
 <img height='23' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg'> <img height='23' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg'>
