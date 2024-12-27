@@ -2,17 +2,19 @@
 
 **`Aspiring Engineer, driving change one line of code at a time`**
 
-I am currently a graduate student at University at Buffalo, leveling up my skills at the intersection of Machine Learning, Data Science and Software Engineering. My interests lie 
-
-## What's My Story?
-
-At the tender age of 8, I was handed a PC by my parents. This has been widely regarded as a questionable decision, sparking endless nights of coding and debugging. A quick summary of my endeavours so far:
+I am currently a graduate student at University at Buffalo, leveling up my skills at the intersection of Machine Learning, Data Science and Software Engineering.
+A quick summary of my endeavours so far:
 
 👨‍🎓: Master's in Computer Science, University at Buffalo (2024) *(Ongoing)*
 
 🧑‍💻: 3 years as a Senior Data Scientist at HSBC Asset Management (2021-2024)
 
 👨‍🎓: Bachelor's in Electrical Engineering, IIT Kanpur (2017-2021)
+
+<details>
+  <summary> What's My Story? </summary>
+At the tender age of 8, I was handed a PC by my parents. This has been widely regarded as a questionable decision, sparking endless nights of coding and debugging. <TBC>
+</details>
 
 
 
