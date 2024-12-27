@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hello there, I'm Aditya 👋
 
+**`Aspiring Engineer, driving change one line of code at a time`**
+
+Currenlty a graduate student at University at Buffalo, leveling up my skills at the intersection of Machine Learning, Data Science and Software Engineering.
+
+## My Tech Stack
+<img height='23' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg'> <img height='23' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg'>
+<img height='23' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg'> <img height='23' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg'>
+
+## Get in Touch!
+<a href= 'https://www.linkedin.com/in/aditya-paikrao'><img height='23' src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"></a> <a href='mailto:apaikrao@buffalo.edu'><img height ='23' src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg"></a>
 <!--
 **adityapaikrao/adityapaikrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
