@@ -5,7 +5,7 @@
 I am currently a graduate student at University at Buffalo, leveling up my skills at the intersection of Machine Learning, Data Science and Software Engineering.
 A quick summary of my endeavours so far:
 
-👨‍🎓: Master's in Computer Science, University at Buffalo (2024) *(Ongoing)*
+👨‍🎓: Master's in Computer Science, University at Buffalo (2024-?) *(Ongoing)*
 
 🧑‍💻: 3 years as a Senior Data Scientist at HSBC Asset Management (2021-2024)
 
