@@ -11,11 +11,12 @@ A quick summary of my endeavours so far:
 
 👨‍🎓: Bachelor's in Electrical Engineering, IIT Kanpur (2017-2021)
 
+<!--
 <details>
   <summary> What's My Story? </summary>
 At the tender age of 8, I was handed a PC by my parents. This has been widely regarded as a questionable decision, sparking endless nights of coding and debugging. <TBC>
 </details>
-
+-->
 
 
 ## My Tech Stack
