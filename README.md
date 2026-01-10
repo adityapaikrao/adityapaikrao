@@ -1,15 +1,12 @@
-# Hello there, I'm Aditya 👋
+# Hello and welcome to my space on GitHub 👋
 
-**`Aspiring Engineer, driving change one line of code at a time`**
+**`Software Engineer. ML Researcher. Data Scientist. Driving change one line of code at a time`**
 
-I am currently a graduate student at University at Buffalo, leveling up my skills at the intersection of Machine Learning, Data Science and Software Engineering.
-A quick summary of my endeavours so far:
+I am currently a graduate student in CS at University at Buffalo.
 
-👨‍🎓: Master's in Computer Science, University at Buffalo (2024-2026) *(Ongoing)*
+I am passionate about Applied ML, Distributed Systems and Algorithms. My current research focuses on Model Merging for multi-task learning in Large Language & Vision Models.
 
-🧑‍💻: 3 years as a Senior Data Scientist at HSBC Asset Management (2021-2024)
-
-👨‍🎓: Bachelor's in Electrical Engineering, IIT Kanpur (2017-2021)
+I have previously worked as a Data Scientist at HSBC. Before that, I obtained my Bachelor's in Electrical Engineering from IIT Kanpur in 2021.
 
 <!--
 <details>
