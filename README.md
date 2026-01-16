@@ -2,7 +2,7 @@
 
 **`Software Engineer. ML Researcher. Data Scientist. Driving change one line of code at a time`**
 
-I am currently a graduate student in CS at University at Buffalo.
+I am currently a graduate student in CS at University at Buffalo (Expected May 2026)
 
 I am passionate about Applied ML, Distributed Systems and Algorithms. My current research focuses on Model Merging for multi-task learning in Large Language & Vision Models.
 
