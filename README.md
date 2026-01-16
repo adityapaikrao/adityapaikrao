@@ -1,4 +1,4 @@
-# Hello and welcome to my space on GitHub 👋
+# Hello and welcome to my corner on GitHub 👋
 
 **`Software Engineer. ML Researcher. Data Scientist. Driving change one line of code at a time`**
 
