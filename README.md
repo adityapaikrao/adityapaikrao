@@ -27,7 +27,7 @@ At the tender age of 8, I was handed a PC by my parents. This has been widely re
 <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> <img height='23' src=''> 
 -->
 ## Get in Touch!
-<a href= 'https://www.linkedin.com/in/aditya-paikrao'><img height='23' src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"></a> <a href='mailto:apaikrao@buffalo.edu'><img height ='23' src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg"></a>
+<a href= 'https://www.linkedin.com/in/aditya-paikrao'><img height='23' src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"></a> <a href='mailto:paikrao.aditya@gmail.com'><img height ='23' src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg"></a>
 <!--
 **adityapaikrao/adityapaikrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
