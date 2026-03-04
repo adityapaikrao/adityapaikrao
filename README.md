@@ -1,6 +1,6 @@
 # Hello and welcome to my corner on GitHub 👋
 
-**`Software Engineer. ML Researcher. Data Scientist. Driving change one line of code at a time`**
+**`Software Engineer. Applied ML & Data Scientist. Driving change one line of code at a time`**
 
 I am currently a graduate student in CS at University at Buffalo (Expected May 2026)
 
